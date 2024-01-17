@@ -15,3 +15,9 @@ The Triple Peaks Library webpage is the first project in the Software Engineerin
 
 - Z-Index:
   By employing the z-index property, the project effectively manages the stacking order of elements, ensuring proper layering and visual hierarchy.
+
+# Deployment
+
+The project is deployed and accessible via the following link:
+
+https://kreker911.github.io/se_project_library/
