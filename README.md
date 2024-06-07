@@ -20,4 +20,4 @@ The Triple Peaks Library webpage is the first project in the Software Engineerin
 
 The project is deployed and accessible via the following link:
 
-https://kreker911.github.io/se_project_library/
+https://ilyamukhamedov.github.io/se_project_library/
